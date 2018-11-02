@@ -1,0 +1,108 @@
+/* my first css */
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.3rem;
+    background-color: #152F54;
+    margin: 0px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/Camera-photographer-photography-vintage_%2824326759225%29.jpg");
+    }
+   
+   article {
+   background-color: #EFF7F9;
+   color: #152F54;
+   width: 50%;
+   padding: 30px;
+   
+   }
+   
+   footer {
+       color: #152F54;
+       background-color: #F8C6A5;
+       font-size: .8rem;
+       margin: 0px;
+       padding: 10px;
+       text-align: center;
+       font-weight: normal;
+   }
+   
+   img {
+       border: 10px solid greenyellow;
+   }
+   
+   h1 {
+       background: #152F54;
+       text-align: center;
+       color: #F8C6A5;
+       text-transform: uppercase;
+       padding: 50px 10px 50px 10px;
+       margin: 0px;
+       letter-spacing: .3rem;
+       font-size: 2rem;
+       font-weight: normal;
+   }
+   
+   blockquote {
+       color: #7C2B78;
+   
+   }
+   
+   blockquote.big-quote {
+       line-height: 2rem;
+       padding: 10px;
+       font-style: italic;
+       text-align: center;
+       font-size: 2rem;
+       border: 1px dotted #7C2B78;
+   }
+   
+   blockquote.small-quote {
+       font-size: 1rem;
+   }
+   
+   cite {
+       font-size: 1rem;
+       color: #777;
+       font-weight: bold;
+       font-style: normal;
+       line-height: .2rem;
+   }
+   
+   footer cite {
+     color: inherit;
+     font-size: inherit;
+     font-style: inherit;
+   }
+   
+   .cite-title {
+       font-style: italic;
+       color: #777;
+   }
+   
+   .bigbold {
+       font-weight: bold;
+       font-size: 1.3rem;
+   }
+   
+   
+   ul a:link {
+       font-weight: bold;
+       text-decoration: none;
+       color:#8F3B26;
+   }
+   
+   a:visited {
+       color: grey;
+   }
+   
+   a:hover {
+       color: pink;
+       background-color: black;
+   }
+   
+   a.harvard:link {
+       color: pink;
+   }
+   
+   
+   
